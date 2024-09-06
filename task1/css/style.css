@@ -1,0 +1,22 @@
+*{text-align:center;}
+header h1{background:#7B0052;
+    color: #fff;
+    display:inline-block;
+    width:200px;
+    padding: 5px;
+    border-radius: 10px;
+    border:1px solid;}
+header p{width: 85%;margin-left: 7%;}
+h2{font-weight: bolder;font-size: 20px;}
+section h3{background:#ef0ca4;
+    color: #fff;
+    display:inline-block;
+    width:200px;
+    padding: 5px;
+    border-radius: 10px;
+    border:1px solid;}
+.flex1,.flex2,.flex3{display: flex;flex-wrap: wrap;justify-content: space-evenly;}
+figure img{width: 200px;border-radius: 50%;}
+body{background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+    }
